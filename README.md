@@ -1,3 +1,7 @@
+**🚀 Try it live: https://surety-analyzer-mck.streamlit.app/**
+
+---
+
 # Surety Underwriting Analyzer
 
 A Python-based contractor financial health analyzer built around the Schleifer red-flag framework used by surety underwriters. Pulls public company financials from Yahoo Finance (or accepts CSV uploads for private contractors), calculates surety-specific ratios across multiple years, applies Schleifer-aligned trend analysis, and produces an underwriting verdict with a downloadable Excel report.
