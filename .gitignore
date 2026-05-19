@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# Excel output files
+surety_analysis_*.xlsx
+surety_multi_year_*.xlsx
+~$*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Talking points (personal)
+talking_points.md
